@@ -37,12 +37,12 @@ III. Le web dans la stratégie du festival Les Suds, à Arles
 	b. Utilisation du web (analyse des statistiques...)
 		1. Son site web 
 		2. Sa présence sur les réseaux sociaux
-		  → Facebook
-      → Twitter
-      → Instagram
+			→ Facebook
+			→ Twitter
+			→ Instagram
 		3. Newsletters
 
 Conclusion
-	→ synthèse
-	→ limites
-	→ recommandations (ouverture)
+→ synthèse
+→ limites
+→ recommandations (ouverture)
