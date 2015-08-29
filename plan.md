@@ -17,23 +17,24 @@ I. Définitions et Contexte
     4. Stratégie de communication
     
 II. Le web entant qu'outil de communication indispensable
-	b. L'intérêt de l'utilisation du web pour les festivals
+	a. L'intérêt de l'utilisation du web pour les festivals
 			→ Le web prépare à la dimension expérientielle du festival
 			→ les réseaux sociaux et le caractère « social » des festivals
-			→ le web comme outil de diplomatie ?
-	c. Risques et limite liés à son utilisation
+			→ le web comme outil de diplomatie ? (pas trop compris ??)
+	b. Risques et limite liés à son utilisation
 		1. Des risques propres à toute organisation
 			→ Problèmes relatifs aux droits d'auteur
 			→ E-reputation
-      → Protection des données
+      			→ Protection des données
 		2. Limites
 			→ Une pratique peu coûteuse mais non gratuite
-			→ Le marketing est mal vu par les associations car trop « commercial » : similaire avec le web-marketing ?
+			→ Le marketing est mal vu par les associations car trop « commercial » : similaire au web-marketing ?
 
 III. Le web dans la stratégie du festival Les Suds, à Arles
 	a. Le Festival Les Suds, à Arles
 		1. Présentation
-		2. Stratégie (+structure décisionnelle, réunions...)
+		2. En chiffres (je pense que donner des statistiques ou des chiffres aideront à la mise en contexte de ta mission)
+		3. Stratégie (+structure décisionnelle, réunions...)
 	b. Utilisation du web (analyse des statistiques...)
 		1. Son site web 
 		2. Sa présence sur les réseaux sociaux
@@ -44,5 +45,5 @@ III. Le web dans la stratégie du festival Les Suds, à Arles
 
 Conclusion
 → synthèse
-→ limites
-→ recommandations (ouverture)
+→ perspectives (les limites sont à décrire rapidement dans la synthèse à mon avis)
+→ recommandations (ouverture) --> Les recommandations te seront faites anyway par le juré normalement, peut être pas pertinent ici.
