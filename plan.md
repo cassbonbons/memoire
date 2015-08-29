@@ -20,7 +20,7 @@ II. Le web entant qu'outil de communication indispensable
 	a. L'intérêt de l'utilisation du web pour les festivals
 			→ Le web prépare à la dimension expérientielle du festival
 			→ les réseaux sociaux et le caractère « social » des festivals
-			→ le web comme outil de diplomatie ? (pas trop compris ??)
+			→ le web comme plateforme facilitant la récolte de fonds
 	b. Risques et limite liés à son utilisation
 		1. Des risques propres à toute organisation
 			→ Problèmes relatifs aux droits d'auteur
